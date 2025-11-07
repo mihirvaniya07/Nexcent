@@ -114,11 +114,13 @@ body {
 }
 .log-in a {
   font-size: 14px;
+  font-weight: 500;
   text-decoration: none;
   color: var(--primary-color);
 }
 .sign-up a {
   font-size: 14px;
+  font-weight: 500;
   text-decoration: none;
   color: white;
 }
@@ -145,11 +147,12 @@ body {
   font-size: 16px;
 }
 .banner-box .banner-btn {
-  padding: 14px 32px;
+  padding: 16px 33px;
   border: var(--primary-color);
   border-radius: 4px;
   font-size: 16px;
   cursor: pointer;
+    font-family: Inter;
 }
 
 .dots {
@@ -182,13 +185,6 @@ body {
 .client-logos {
   padding: 30px 0 10px;
 }
-/* .client-img {
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-} */
 
 /* group section  */
 
@@ -233,7 +229,8 @@ body {
 }
 
 .box-content button {
-  padding: 14px 32px;
+  padding: 15px 33px;
+  font-family: Inter;
   border-radius: 4px;
   font-size: 16px;
   border: none;
@@ -396,8 +393,9 @@ body {
 }
 
 .newsletter button {
-  padding: 14px 32px;
+  padding: 14px 33px;
   border: none;
+  font-family: Inter;
   border-radius: 4px;
   font-size: 16px;
   line-height: 24px;
@@ -413,7 +411,7 @@ body {
 
 .footer {
   background-color: #263238;
-  padding: 80px;
+  padding: 64px;
 }
 
 .f-text {
