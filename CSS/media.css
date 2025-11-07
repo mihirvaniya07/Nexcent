@@ -88,6 +88,7 @@
 
   .sub-text {
     font-size: 14px;
+    padding: 0 10px;
     line-height: 22px;
   }
 
@@ -798,3 +799,4 @@
     max-width: 1152px;
   }
 }
+
